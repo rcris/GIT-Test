@@ -3,3 +3,7 @@
 *::after {
 	margin: 0;
 }
+
+h2 {
+	color: lightcoral;
+}
